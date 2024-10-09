@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\TCPData\bin\Debug\TCPData.dll
+C:\Users\Lenovo\source\repos\TCPData\bin\Debug\TCPData.pdb
+C:\Users\Lenovo\source\repos\TCPData\obj\Debug\TCPData.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\TCPData\obj\Debug\TCPData.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\TCPData\obj\Debug\TCPData.dll
+C:\Users\Lenovo\source\repos\TCPData\obj\Debug\TCPData.pdb

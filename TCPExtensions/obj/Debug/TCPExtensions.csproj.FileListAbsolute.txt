@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\TCPExtensions\bin\Debug\TCPExtensions.dll
+C:\Users\Lenovo\source\repos\TCPExtensions\bin\Debug\TCPExtensions.pdb
+C:\Users\Lenovo\source\repos\TCPExtensions\obj\Debug\TCPExtensions.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\TCPExtensions\obj\Debug\TCPExtensions.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\TCPExtensions\obj\Debug\TCPExtensions.dll
+C:\Users\Lenovo\source\repos\TCPExtensions\obj\Debug\TCPExtensions.pdb
